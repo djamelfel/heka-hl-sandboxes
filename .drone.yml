@@ -1,0 +1,14 @@
+build:
+  image: switchback/git-debian
+
+  commands:
+    - export HEKA_HL_DIR=`pwd`
+    - echo $HEKA_HL_DIR
+#    - python -m unittest -b tests
+    - echo pwd
+    - echo ls
+
+#notify:
+#  email:
+#    on_success: blame
+#    on_failure: blame

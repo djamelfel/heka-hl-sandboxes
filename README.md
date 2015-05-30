@@ -1,5 +1,5 @@
 # HeliosLite Heka lua sandboxes
-[![Build Status](http://192.168.59.103:8080/api/badge/bitbucket.org/djamelfel/heka-hl-sandboxes/status.svg?branch=master)](http://192.168.59.103:8080/bitbucket.org/djamelfel/heka-hl-sandboxes)
+[![Build Status](http://88.188.125.12:8080/api/badge/bitbucket.org/djamelfel/heka-hl-sandboxes/status.svg?branch=drone)](http://88.188.125.12:8080/bitbucket.org/djamelfel/heka-hl-sandboxes)
 
 
 ![Data flow visualization](https://bitbucket.org/helioslite/heka-hl-sandboxes/raw/master/heka_detailed.png)
