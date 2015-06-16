@@ -1,5 +1,5 @@
 build:
-  image: switchback/git-debian
+  image: djamelfel/rpi-raspbian-heka:drone
 
   commands:
     - export HEKA_HL_DIR=`pwd`
